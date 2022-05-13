@@ -14,8 +14,11 @@ namespace employeewage
             //c.Caldailywage();
             //parttimeornot d = new parttimeornot();
             //d.Parttimeornot();
-            usingswitch e = new usingswitch();
-            e.Usingswitch();
+            //    usingswitch e = new usingswitch();
+            //    e.Usingswitch();
+            monthlywage f = new monthlywage();
+            f.Monthwage();
+
         }
     }
 }
