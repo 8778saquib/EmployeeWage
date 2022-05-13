@@ -12,8 +12,10 @@ namespace employeewage
             //a.CheckingpresentORAbsent();
             //caldailywage c = new caldailywage();
             //c.Caldailywage();
-            parttimeornot d = new parttimeornot();
-            d.Parttimeornot();
+            //parttimeornot d = new parttimeornot();
+            //d.Parttimeornot();
+            usingswitch e = new usingswitch();
+            e.Usingswitch();
         }
     }
 }
