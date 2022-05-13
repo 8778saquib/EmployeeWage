@@ -16,8 +16,11 @@ namespace employeewage
             //d.Parttimeornot();
             //    usingswitch e = new usingswitch();
             //    e.Usingswitch();
-            monthlywage f = new monthlywage();
-            f.Monthwage();
+
+            //monthlywage f = new monthlywage();
+            //f.Monthwage();
+            totaoWorkingDaysOrHoursReached g = new totaoWorkingDaysOrHoursReached();
+            g.TotaoWorkingDaysOrHoursReached();
 
         }
     }
