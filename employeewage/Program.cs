@@ -10,6 +10,8 @@ namespace employeewage
 
             checkingpresentORAbsent a = new checkingpresentORAbsent();
             a.CheckingpresentORAbsent();
+            caldailywage c = new caldailywage();
+            c.Caldailywage();
         }
     }
 }
