@@ -8,10 +8,12 @@ namespace employeewage
         {
             Console.WriteLine("welcome to employee wage program");
 
-            checkingpresentORAbsent a = new checkingpresentORAbsent();
-            a.CheckingpresentORAbsent();
-            caldailywage c = new caldailywage();
-            c.Caldailywage();
+            //checkingpresentORAbsent a = new checkingpresentORAbsent();
+            //a.CheckingpresentORAbsent();
+            //caldailywage c = new caldailywage();
+            //c.Caldailywage();
+            parttimeornot d = new parttimeornot();
+            d.Parttimeornot();
         }
     }
 }
