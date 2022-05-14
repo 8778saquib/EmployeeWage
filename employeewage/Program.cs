@@ -19,6 +19,7 @@ namespace employeewage
             Console.WriteLine(" 5. monthlywage");
             Console.WriteLine(" 6.totaoWorkingDaysOrHoursReached");
             Console.WriteLine(" 7.ClassMethodAndVars");
+            Console.WriteLine(" 8.MultipleCompanies");
 
             int choice = Convert.ToInt32(Console.ReadLine());
 
@@ -61,6 +62,12 @@ namespace employeewage
                     h.EmpWage();
 
                     break;
+                case 8:
+                    MultipleCompanies z = new MultipleCompanies();
+                    z.Companies();
+
+                    break;
+
 
                 default:
                     Console.WriteLine("Please enter the correct choice");
